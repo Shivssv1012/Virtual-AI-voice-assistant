@@ -1,0 +1,15 @@
+#Libraries
+speech_recognition
+pyttsx3
+time
+listener
+google- genai
+datetime
+webbrowser
+openai
+urllib-parse
+winsound
+threading
+queue
+
+  
